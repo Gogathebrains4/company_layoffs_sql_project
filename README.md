@@ -22,8 +22,8 @@ This project cleans and standardizes a layoffs dataset in MySQL, then runs explo
 - Top 5 companies per year using `DENSE_RANK()`
 
 ## How to Run
-1. Load the raw table as (https://github.com/Gogathebrains4/company_layoffs_sql_project/blob/main/layoffs.csv))`
-2. Load the SQL file as 
+1. Load the raw table as https://github.com/Gogathebrains4/company_layoffs_sql_project/blob/main/layoffs.csv
+2. Load the SQL file as https://github.com/Gogathebrains4/company_layoffs_sql_project/blob/main/Layoffs.sql
 
 ## Author
 Wisdom Ogbeche
